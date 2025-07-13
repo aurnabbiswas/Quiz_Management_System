@@ -1,0 +1,19 @@
+# IntelliJ config
+.idea/
+
+# Gradle directories
+.gradle/
+gradle/
+
+# Build output
+build/
+
+# ignore IntelliJ project files
+*.iml
+
+# System-specific junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

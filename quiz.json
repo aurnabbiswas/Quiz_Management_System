@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "answerKey": 4
+  },
+  {
+    "question": "Which testing is done without knowing the internal structure of code?",
+    "option1": "White-box Testing",
+    "option2": "Black-box Testing",
+    "option3": "Unit Testing",
+    "option4": "Alpha Testing",
+    "answerKey": 2
+  },
+  {
+    "question": "Which type of testing checks performance under load?",
+    "option1": "Unit Testing",
+    "option2": "System Testing",
+    "option3": "Load Testing",
+    "option4": "Acceptance Testing",
+    "answerKey": 3
+  },
+  {
+    "question": "Regression testing is used to:",
+    "option1": "Add new features",
+    "option2": "Ensure new bugs aren't introduced",
+    "option3": "Check hardware",
+    "option4": "Test UI",
+    "answerKey": 2
+  },
+  {
+    "question": "What is the purpose of integration testing?",
+    "option1": "Test individual modules",
+    "option2": "Test combined components",
+    "option3": "Test user interface",
+    "option4": "Test security",
+    "answerKey": 2
+  },
+  {
+    "question": "Which is a non-functional testing type?",
+    "option1": "Performance Testing",
+    "option2": "Unit Testing",
+    "option3": "Regression Testing",
+    "option4": "Smoke Testing",
+    "answerKey": 1
+  },
+  {
+    "question": "Alpha testing is done by:",
+    "option1": "End-users",
+    "option2": "Testers at client site",
+    "option3": "Developers in-house",
+    "option4": "Marketing team",
+    "answerKey": 3
+  },
+  {
+    "question": "Beta testing is done by:",
+    "option1": "In-house testers",
+    "option2": "End-users",
+    "option3": "Developers",
+    "option4": "Business analysts",
+    "answerKey": 2
+  },
+  {
+    "question": "Which testing verifies that critical functionalities work?",
+    "option1": "Smoke Testing",
+    "option2": "Stress Testing",
+    "option3": "Volume Testing",
+    "option4": "Sanity Testing",
+    "answerKey": 1
+  },
+  {
+    "question": "Sanity testing is performed to:",
+    "option1": "Stress the system",
+    "option2": "Verify bug fixes",
+    "option3": "Break the system",
+    "option4": "Verify UI design",
+    "answerKey": 2
+  },
+  {
+    "question": "Which testing simulates heavy usage?",
+    "option1": "Smoke Testing",
+    "option2": "Stress Testing",
+    "option3": "Ad-hoc Testing",
+    "option4": "Acceptance Testing",
+    "answerKey": 2
+  },
+  {
+    "question": "Which testing is done by the customer?",
+    "option1": "Alpha Testing",
+    "option2": "Beta Testing",
+    "option3": "Acceptance Testing",
+    "option4": "Sanity Testing",
+    "answerKey": 3
+  },
+  {
+    "question": "Which tool is used for performance testing?",
+    "option1": "JIRA",
+    "option2": "JMeter",
+    "option3": "Postman",
+    "option4": "Selenium",
+    "answerKey": 2
+  },
+  {
+    "question": "Which of these is an automation testing tool?",
+    "option1": "Postman",
+    "option2": "JIRA",
+    "option3": "Selenium",
+    "option4": "Excel",
+    "answerKey": 3
+  },
+  {
+    "question": "Which is not a level of testing?",
+    "option1": "Unit Testing",
+    "option2": "System Testing",
+    "option3": "Deployment Testing",
+    "option4": "Integration Testing",
+    "answerKey": 3
+  },
+  {
+    "question": "Which testing technique uses boundary values?",
+    "option1": "Equivalence Partitioning",
+    "option2": "Boundary Value Analysis",
+    "option3": "Error Guessing",
+    "option4": "Exploratory Testing",
+    "answerKey": 2
+  },
+  {
+    "question": "Which is a white-box testing technique?",
+    "option1": "Boundary Value Analysis",
+    "option2": "Decision Coverage",
+    "option3": "Equivalence Partitioning",
+    "option4": "Exploratory Testing",
+    "answerKey": 2
+  },
+  {
+    "question": "Which of the following is black-box testing?",
+    "option1": "Statement Coverage",
+    "option2": "Branch Testing",
+    "option3": "Error Guessing",
+    "option4": "Path Testing",
+    "answerKey": 3
+  },
+  {
+    "question": "What is the full form of SQA?",
+    "option1": "Software Query Analyzer",
+    "option2": "Software Quality Assurance",
+    "option3": "System Quality Assurance",
+    "option4": "Standard Quality Audit",
+    "answerKey": 2
+  },
+  {
+    "question": "Which is true for white-box testing?",
+    "option1": "Tester knows internal code",
+    "option2": "Test done by customers",
+    "option3": "Only UI tested",
+    "option4": "No test cases needed",
+    "answerKey": 1
+  },
+  {
+    "question": "What is test case?",
+    "option1": "Plan for development",
+    "option2": "Tool for coding",
+    "option3": "Set of actions to test a function",
+    "option4": "Requirement document",
+    "answerKey": 3
+  },
+  {
+    "question": "Which is not part of test plan?",
+    "option1": "Test objectives",
+    "option2": "Schedule",
+    "option3": "Bug count",
+    "option4": "Test environment",
+    "answerKey": 3
+  },
+  {
+    "question": "Which document explains what to test and how?",
+    "option1": "Test Plan",
+    "option2": "Test Case",
+    "option3": "Test Data",
+    "option4": "Bug Report",
+    "answerKey": 1
+  },
+  {
+    "question": "Which is a dynamic testing activity?",
+    "option1": "Code Review",
+    "option2": "Walkthrough",
+    "option3": "Unit Testing",
+    "option4": "Static Analysis",
+    "answerKey": 3
+  },
+  {
+    "question": "What is static testing?",
+    "option1": "Running test scripts",
+    "option2": "Executing code",
+    "option3": "Reviewing code without running",
+    "option4": "Unit testing with tools",
+    "answerKey": 3
+  },
+  {
+    "question": "What is the goal of exploratory testing?",
+    "option1": "Find bugs using experience",
+    "option2": "Automate tests",
+    "option3": "Document all cases",
+    "option4": "Skip test plan",
+    "answerKey": 1
+  },
+  {
+    "question": "What is defect?",
+    "option1": "Incorrect line of code",
+    "option2": "Customer complaint",
+    "option3": "Mismatch from requirement",
+    "option4": "Performance delay",
+    "answerKey": 3
+  },
+  {
+    "question": "Severity is related to:",
+    "option1": "How easily bug is fixed",
+    "option2": "Impact of the bug",
+    "option3": "Who found the bug",
+    "option4": "Deadline of delivery",
+    "answerKey": 2
+  },
+  {
+    "question": "Priority is related to:",
+    "option1": "Impact of defect",
+    "option2": "Fix order",
+    "option3": "Severity",
+    "option4": "Security",
+    "answerKey": 2
+  },
+  {
+    "question": "Which testing type ensures system works end-to-end?",
+    "option1": "Unit Testing",
+    "option2": "System Testing",
+    "option3": "Smoke Testing",
+    "option4": "Static Testing",
+    "answerKey": 2
+  }
+]
